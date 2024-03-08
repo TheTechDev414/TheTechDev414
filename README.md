@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I donot code everytime.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTechDev414&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTechDev414&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
