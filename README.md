@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=TheTechDev414&color=red)
 
 **TheTechDev414/TheTechDev414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
