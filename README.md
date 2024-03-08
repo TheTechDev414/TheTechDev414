@@ -14,6 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTechDev414&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,dart,django,docker,electron,flutter,kubernetes,mongodb,linux,nodejs,react,vscode)](https://skillicons.dev)
 
 
